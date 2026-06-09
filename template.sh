@@ -1,0 +1,1 @@
+mkdir -p data notebooks outputs/{plots,model} src
