@@ -158,9 +158,38 @@ streamlit run app.py
 The forecasting system successfully captures overall sales trends and provides future demand estimates for business planning purposes.
 
 ---
+## Application Screenshots
+---
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+## Data Preprocessing
+
+![Data Preprocessing](screenshots/dataset.png)
+
+---
+## Historical Sales Trend
+
+![Sales](screenshots/sales.png)
+
+---
+## Model Performance
+
+![Model](screenshots/model.png)
+
+---
+
+## Forecast
+
+![forecast](screenshots/forecast.png)
+
+---
 
 ## Author
 
 Aprameya Haritasa Sharma K L
 
 Future Interns – Machine Learning Internship Project
+
